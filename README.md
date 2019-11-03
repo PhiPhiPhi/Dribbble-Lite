@@ -1,24 +1,65 @@
-# README
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h3 align="center">Dribbble lite/h3>
+  <p align="center">
+    This project consists of building a lighter version of the   <a href ="https://dribbble.com/">Dribbble</a> app
+    <br />    
+  </p>
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<!-- TABLE OF CONTENTS -->
 
-Things you may want to cover:
+## Table of Contents
 
-* Ruby version
+- [About the Project](#about-the-project)
+- [Built With](#built-with)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-* System dependencies
+<!-- ABOUT THE PROJECT -->
 
-* Configuration
+## About The Project
 
-* Database creation
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-* Database initialization
+This is a personal ruby project. I have made a lighter version of dribbble app ! It includes
 
-* How to run the test suite
+- post
+- comment
+- rate
 
-* Services (job queues, cache servers, search engines, etc.)
+### Built With
 
-* Deployment instructions
+- HTML5
+- CSS3
+- vscode
 
-* ...
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See https://opensource.org/licenses/MIT for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+
+Philippe Odoubadé - philippejide@outlook.com
+
+Project Link: [https://github.com/PhiPhiPhi/Dribbble-Lite.git](https://github.com/PhiPhiPhi/Dribbble-Lite.git)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+Tuturial Link: [https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ](Mackenzie Child Youtube Channel)
+
+- 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[product-screenshot]: img/screenshot.png
